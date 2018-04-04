@@ -45,10 +45,6 @@ php artisan cache:clear
 php artisan migrate --seed //This will generate the tables and add seed data.
 ```
 
-## Running the tests
-
-Explain how to run the automated tests for this system
-
 ## Deployment
 
 This is not the case for the moment
